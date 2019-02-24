@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1072893367326",
+    "firebase_url": "https://woldcup-57025.firebaseio.com",
+    "project_id": "woldcup-57025",
+    "storage_bucket": "woldcup-57025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072893367326:android:63722c4d84b58da3",
+        "android_client_info": {
+          "package_name": "com.voomin.idealChoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072893367326-dbm8cqmij1fc37ghh4cu4r4iep7me5r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5hZq6qEM3AHHNCmjA7zTTjzijuuGWaTU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
